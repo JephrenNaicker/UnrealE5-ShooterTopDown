@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{15BCAC74-4F86-B2C1-61B2-CF8EAF812BC1}",
+	"EngineAssociation": "5.3",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -10,6 +10,10 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "SkeletalMeshModelingTools",
+			"Enabled": true
 		}
 	]
 }
